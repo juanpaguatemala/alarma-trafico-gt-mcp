@@ -4,5 +4,8 @@
   "main": "src/index.ts",
   "compatibility_date": "2026-09-30",
   "compatibility_flags": ["nodejs_compat"],
-  "workers_dev": true
+  "workers_dev": true,
+  "vars": {
+    "AT_APPS_SCRIPT_URL": "https://script.google.com/macros/s/AKfycbxWt8JXGoVm4jLhAyyoa1G3ajerW01MXnqm0sCw8A0X1ilail6zFOEOcIJ-EiOi0WUV/exec"
+  }
 }
